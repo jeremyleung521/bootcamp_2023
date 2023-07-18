@@ -5,12 +5,11 @@ bootcamp_2023
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/bootcamp_2023/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/bootcamp_2023/branch/main)
 
 
-description
+This is a test repo done during the MOLSSI fellowship bootcamp!
 
 ### Copyright
 
 Copyright (c) 2023, Jeremy Leung
-
 
 #### Acknowledgements
  
