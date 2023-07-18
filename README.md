@@ -7,6 +7,8 @@ bootcamp_2023
 
 This is a test repo done during the MOLSSI fellowship bootcamp!
 
+This requires numpy and matplitlib.
+
 ### Copyright
 
 Copyright (c) 2023, Jeremy Leung
