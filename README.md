@@ -7,7 +7,9 @@ bootcamp_2023
 
 This is a test repo done during the MOLSSI fellowship bootcamp!
 
-This requires numpy and matplitlib.
+This requires numpy and matplotlib.
+
+branch text.
 
 ### Copyright
 
