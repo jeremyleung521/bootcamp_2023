@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 # Self-descriptive entries which should always be present
 # https://packaging.python.org/en/latest/specifications/declaring-project-metadata/
 [project]
-name = "bootcamp_2023"
+name = "bootcamp_2023_JL"
 description = "description"
 dynamic = ["version"]
 readme = "README.md"
